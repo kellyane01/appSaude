@@ -1,19 +1,12 @@
 import {StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
-    resultImc: {
+    informacoesImc: {
         flex: 1,
-        marginTop: 15,
-        paddingTop: 60,
+        paddingLeft: 20,
         borderRadius: 50,
-        alignItems: 'center',
-        // width: '100%',
-    },
-
-    numeroImc: {
-        fontSize: 48,
-        color: '#ff0043',
-        fontWeight: 'bold',
+        // alignItems: 'center',
+        // width: '90%',
     },
 
     informacao: {
